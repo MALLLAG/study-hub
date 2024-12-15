@@ -22,3 +22,6 @@
 [submodule "microservice-study"]
 	path = microservice-study
 	url = https://github.com/flataex/microservice-study
+[submodule "The-Book-Object"]
+	path = The-Book-Object
+	url = https://github.com/A-Little-Bit-Tech-Frontiers/The-Book-Object
