@@ -25,3 +25,6 @@
 [submodule "The-Book-Object"]
 	path = The-Book-Object
 	url = https://github.com/A-Little-Bit-Tech-Frontiers/The-Book-Object
+[submodule "Building-Event-Driven-Microservices-Book"]
+	path = Building-Event-Driven-Microservices-Book
+	url = https://github.com/A-Little-Bit-Tech-Frontiers/Building-Event-Driven-Microservices-Book
