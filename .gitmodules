@@ -19,3 +19,6 @@
 [submodule "kafka-study"]
 	path = kafka-study
 	url = https://github.com/flataex/kafka-study
+[submodule "microservice-study"]
+	path = microservice-study
+	url = https://github.com/flataex/microservice-study
