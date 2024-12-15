@@ -1,3 +1,6 @@
 [submodule "Effective-Software-Testing"]
 	path = Effective-Software-Testing
 	url = https://github.com/MoonKimTeam/Effective-Software-Testing
+[submodule "Tidy-First"]
+	path = Tidy-First
+	url = https://github.com/MoonKimTeam/Tidy-First
