@@ -10,3 +10,6 @@
 [submodule "The-Secret-Life-of-Programs-Understand-Computers"]
 	path = The-Secret-Life-of-Programs-Understand-Computers
 	url = https://github.com/MoonKimTeam/The-Secret-Life-of-Programs-Understand-Computers
+[submodule "java-to-kotlin-study"]
+	path = java-to-kotlin-study
+	url = https://github.com/flataex/java-to-kotlin-study
