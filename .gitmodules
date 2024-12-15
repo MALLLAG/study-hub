@@ -4,3 +4,6 @@
 [submodule "Tidy-First"]
 	path = Tidy-First
 	url = https://github.com/MoonKimTeam/Tidy-First
+[submodule "Clean-Architecture-Learning-in-the-Making"]
+	path = Clean-Architecture-Learning-in-the-Making
+	url = https://github.com/MoonKimTeam/Clean-Architecture-Learning-in-the-Making
