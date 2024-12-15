@@ -28,3 +28,6 @@
 [submodule "Building-Event-Driven-Microservices-Book"]
 	path = Building-Event-Driven-Microservices-Book
 	url = https://github.com/A-Little-Bit-Tech-Frontiers/Building-Event-Driven-Microservices-Book
+[submodule "System-Design-Interview-Volume-2-Book"]
+	path = System-Design-Interview-Volume-2-Book
+	url = https://github.com/A-Little-Bit-Tech-Frontiers/System-Design-Interview-Volume-2-Book
