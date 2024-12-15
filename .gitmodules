@@ -31,3 +31,6 @@
 [submodule "System-Design-Interview-Volume-2-Book"]
 	path = System-Design-Interview-Volume-2-Book
 	url = https://github.com/A-Little-Bit-Tech-Frontiers/System-Design-Interview-Volume-2-Book
+[submodule "instagram-by-kotlin"]
+	path = instagram-by-kotlin
+	url = https://github.com/flataex/instagram-by-kotlin
