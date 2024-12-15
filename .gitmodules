@@ -13,3 +13,6 @@
 [submodule "java-to-kotlin-study"]
 	path = java-to-kotlin-study
 	url = https://github.com/flataex/java-to-kotlin-study
+[submodule "docker-study"]
+	path = docker-study
+	url = https://github.com/flataex/docker-study
