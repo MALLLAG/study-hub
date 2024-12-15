@@ -16,3 +16,6 @@
 [submodule "docker-study"]
 	path = docker-study
 	url = https://github.com/flataex/docker-study
+[submodule "kafka-study"]
+	path = kafka-study
+	url = https://github.com/flataex/kafka-study
