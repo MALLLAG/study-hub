@@ -34,3 +34,6 @@
 [submodule "instagram-by-kotlin"]
 	path = instagram-by-kotlin
 	url = https://github.com/flataex/instagram-by-kotlin
+[submodule "Understanding-the-Jvm-Advanced-Features-and-Best-Practices"]
+	path = Understanding-the-Jvm-Advanced-Features-and-Best-Practices
+	url = https://github.com/MoonKimTeam/Understanding-the-Jvm-Advanced-Features-and-Best-Practices
