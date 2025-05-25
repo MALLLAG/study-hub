@@ -37,3 +37,6 @@
 [submodule "Understanding-the-Jvm-Advanced-Features-and-Best-Practices"]
 	path = Understanding-the-Jvm-Advanced-Features-and-Best-Practices
 	url = https://github.com/MoonKimTeam/Understanding-the-Jvm-Advanced-Features-and-Best-Practices
+[submodule "Mastering-Blockchain"]
+	path = Mastering-Blockchain
+	url = https://github.com/A-Little-Bit-Tech-Frontiers/Mastering-Blockchain
