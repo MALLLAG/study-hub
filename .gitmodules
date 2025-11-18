@@ -43,3 +43,6 @@
 [submodule "Domain-Driven-Design-start2"]
 	path = Domain-Driven-Design-start2
 	url = https://github.com/A-Little-Bit-Tech-Frontiers/Domain-Driven-Design-start2
+[submodule "Designing-Data-Intensive-Applications"]
+	path = Designing-Data-Intensive-Applications
+	url = https://github.com/A-Little-Bit-Tech-Frontiers/Designing-Data-Intensive-Applications
