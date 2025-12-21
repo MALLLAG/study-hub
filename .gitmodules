@@ -49,3 +49,6 @@
 [submodule "Domain-Modeling-Made-Functional"]
 	path = Domain-Modeling-Made-Functional
 	url = https://github.com/MALLLAG/Domain-Modeling-Made-Functional
+[submodule "Java-Spring-Practical-Programming-for-Developers"]
+	path = Java-Spring-Practical-Programming-for-Developers
+	url = https://github.com/MoonKimTeam/Java-Spring-Practical-Programming-for-Developers
