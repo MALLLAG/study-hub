@@ -46,3 +46,6 @@
 [submodule "Designing-Data-Intensive-Applications"]
 	path = Designing-Data-Intensive-Applications
 	url = https://github.com/A-Little-Bit-Tech-Frontiers/Designing-Data-Intensive-Applications
+[submodule "Domain-Modeling-Made-Functional"]
+	path = Domain-Modeling-Made-Functional
+	url = https://github.com/MALLLAG/Domain-Modeling-Made-Functional
