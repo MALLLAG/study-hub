@@ -52,3 +52,6 @@
 [submodule "Java-Spring-Practical-Programming-for-Developers"]
 	path = Java-Spring-Practical-Programming-for-Developers
 	url = https://github.com/MoonKimTeam/Java-Spring-Practical-Programming-for-Developers
+[submodule "Computer-Networking-A-Top-Down-Approach"]
+	path = Computer-Networking-A-Top-Down-Approach
+	url = https://github.com/MALLLAG/Computer-Networking-A-Top-Down-Approach
