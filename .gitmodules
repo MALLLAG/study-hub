@@ -55,3 +55,6 @@
 [submodule "Computer-Networking-A-Top-Down-Approach"]
 	path = Computer-Networking-A-Top-Down-Approach
 	url = https://github.com/MALLLAG/Computer-Networking-A-Top-Down-Approach
+[submodule "Computer-Network-A-Tanenbaum"]
+	path = Computer-Network-A-Tanenbaum
+	url = https://github.com/MALLLAG/Computer-Network-A-Tanenbaum
